@@ -9,7 +9,7 @@
 <br><br>
 <b>👉 Click the pink button or the preview to open the calculator online</b>
 <br><br>
-🔗 https://fahdalakbari.github.io/surfaceareapredictiontool/
+
 </td>
 <td align="center" width="50%">
 <a href="https://fahdalakbari.github.io/surfaceareapredictiontool/">
