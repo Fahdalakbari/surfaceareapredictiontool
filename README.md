@@ -1,4 +1,4 @@
-# Surface Area (SA) Prediction Tool
+# Surface Area (SA) Prediction & Optimization Tool
 
 <table>
 <tr>
