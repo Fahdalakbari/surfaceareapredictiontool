@@ -1,1 +1,5 @@
-Download the HTML file to your local system and open it using a compatible web browser (e.g., Google Chrome, Microsoft Edge, or Mozilla Firefox) to view the content
+## Surface Area Prediction Tool
+
+[![Open the Calculator](https://img.shields.io/badge/▶_Open_Calculator-Click_Here-brightgreen?style=for-the-badge)](https://fahdalakbari.github.io/surfaceareapredictiontool/)
+
+**Live tool:** https://fahdalakbari.github.io/surfaceareapredictiontool/
